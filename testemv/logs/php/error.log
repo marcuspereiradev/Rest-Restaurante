@@ -32,3 +32,14 @@
 [18-Dec-2017 13:57:05 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
 [18-Dec-2017 13:57:05 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
 [18-Dec-2017 18:49:30 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' in /app/public/wp-content/themes/rest/page-contato.php on line 35
+[19-Dec-2017 18:26:24 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[19-Dec-2017 18:26:25 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[19-Dec-2017 18:26:25 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[19-Dec-2017 18:26:25 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[19-Dec-2017 18:38:50 UTC] PHP Warning:  Illegal string offset 'ID' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 365
+[19-Dec-2017 18:38:50 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 366
+[19-Dec-2017 18:38:50 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[19-Dec-2017 18:38:50 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[19-Dec-2017 18:38:50 UTC] PHP Warning:  Illegal string offset 'menu_order' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 368
+[19-Dec-2017 18:38:50 UTC] PHP Warning:  Illegal string offset 'active' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 369
+[19-Dec-2017 18:38:50 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 373
