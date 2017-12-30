@@ -85,3 +85,33 @@
 [22-Dec-2017 17:05:16 UTC] PHP Warning:  Illegal string offset 'menu_order' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 368
 [22-Dec-2017 17:05:16 UTC] PHP Warning:  Illegal string offset 'active' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 369
 [22-Dec-2017 17:05:16 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 373
+[25-Dec-2017 13:17:11 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[25-Dec-2017 13:17:12 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[25-Dec-2017 13:17:12 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[25-Dec-2017 13:17:12 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[25-Dec-2017 13:31:54 UTC] PHP Warning:  Illegal string offset 'ID' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 365
+[25-Dec-2017 13:31:54 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 366
+[25-Dec-2017 13:31:54 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[25-Dec-2017 13:31:54 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[25-Dec-2017 13:31:54 UTC] PHP Warning:  Illegal string offset 'menu_order' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 368
+[25-Dec-2017 13:31:54 UTC] PHP Warning:  Illegal string offset 'active' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 369
+[25-Dec-2017 13:31:54 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 373
+[28-Dec-2017 13:29:14 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Dec-2017 13:29:15 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Dec-2017 13:29:15 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Dec-2017 13:29:15 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Dec-2017 14:12:00 UTC] PHP Warning:  Illegal string offset 'ID' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 365
+[28-Dec-2017 14:12:00 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 366
+[28-Dec-2017 14:12:00 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[28-Dec-2017 14:12:00 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 367
+[28-Dec-2017 14:12:00 UTC] PHP Warning:  Illegal string offset 'menu_order' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 368
+[28-Dec-2017 14:12:00 UTC] PHP Warning:  Illegal string offset 'active' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 369
+[28-Dec-2017 14:12:00 UTC] PHP Warning:  Illegal string offset 'key' in /app/public/wp-content/plugins/advanced-custom-fields-pro/api/api-field-group.php on line 373
+[28-Dec-2017 17:42:24 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Dec-2017 17:42:24 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Dec-2017 17:42:25 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[28-Dec-2017 17:42:25 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[30-Dec-2017 01:28:01 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[30-Dec-2017 01:28:02 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[30-Dec-2017 01:28:02 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[30-Dec-2017 01:28:02 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
